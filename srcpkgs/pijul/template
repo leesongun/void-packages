@@ -1,6 +1,6 @@
 # Template file for 'pijul'
 pkgname=pijul
-version=0.12.2
+version=1.0.0-beta
 revision=5
 build_style=cargo
 _sequoia_ver=0.9.0
